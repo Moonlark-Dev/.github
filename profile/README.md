@@ -29,4 +29,4 @@ Moonlark，意为「月雀」，是由 [IT Craft Development Team](https://itcdt
 如果您有任何疑问、建议或合作意向，欢迎通过以下方式联系我们：
 
 - 电子邮件：`moonlark@itcdt.top`
-- GitHub 讨论：[Moonlark Discussions](https://github.com/Moonlark-Dev/XDbot2/discussions)
+- GitHub 讨论：[Moonlark Discussions](https://github.com/orgs/Moonlark-Dev/discussions)
