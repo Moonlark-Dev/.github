@@ -13,8 +13,7 @@ Moonlark，意为「月雀」，是由 [IT Craft Development Team](https://itcdt
 ## 主要项目
 
 - [Moonlark](https://github.com/Moonlark-Dev/Moonlark)：新一代聊天机器人，简单、高效、多功能。
-- [XDbot2](https://github.com/Moonlark-Dev/XDbot2)：一款功能丰富的聊天机器人，适用于不同平台，不仅限于 QQ。
-- [XDbot2-CaveApi](https://github.com/Moonlark-Dev/XDbot2-CaveApi)：XDbot2 的回声洞查询接口。
+
 
 ## 参与贡献
 
